@@ -5,6 +5,7 @@ const Shop = () => {
     return (
         <div className="shop-container">
             <div className="products-container">
+                <h2>aaaaa</h2>
 
                 <h3>This is for product</h3>
             </div>
