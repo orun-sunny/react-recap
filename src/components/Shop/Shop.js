@@ -12,6 +12,12 @@ const Shop = () => {
         .then(res=> res.json())
         .then(data => setProducts(data))
     }, []);
+    // useEffect( () =>{
+    //     fetch('products.json')
+    //     .then(res=> res.json())
+    //     .then(data => setProducts(data))
+    // }, []);
+
 
     const handleAddToCart = (product) =>{
         console.log(product);
