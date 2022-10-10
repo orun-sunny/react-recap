@@ -5,6 +5,7 @@ const Inner = () => {
         <div>
             <h1>this is inner part
                 <h2>aaaaaaaaaaaa</h2>
+                <h2>aaaaaaaaaaaa</h2>
             </h1>
         </div>
     );
