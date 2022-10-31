@@ -18,7 +18,7 @@ const Shop = () => {
     //     .then(data => setProducts(data))
     // }, []);
 
-
+ 
     const handleAddToCart = (product) =>{
         console.log(product);
         // do not do this: cart.push(product);
